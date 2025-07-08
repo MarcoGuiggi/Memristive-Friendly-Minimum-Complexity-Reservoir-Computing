@@ -3,7 +3,7 @@ Code base for my thesis project. Contains code to set up and run benchmarking ex
 
 Memristive_Friendly_Minimum_Complexity_ESN.py contains all the models tested in the experiments:ESN, MF-ESN, RingESN, MF-RingESN, MinCompESN and MF-MinCompESN.
 
-In the experiments_bayesian_search files is the code to run the experiments, which perform model selection through Bayesian search and then logs the results of the best models found. The logs are thorough and create a new file for each experiment run. 
+In the experiments_bayesian_search files is the code to run the experiments, which perform model selection through Bayesian search and then log the results of the best models found. The logs are thorough and create a new file for each experiment run. 
 
 Bayesian_Search_Hypermodels.py defines the hyperparameter ranges for the model selection of every model.
 
