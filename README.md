@@ -7,4 +7,4 @@ In the experiments_bayesian_search files is the code to run the experiments, whi
 
 Bayesian_Search_Hypermodels.py defines the hyperparameter ranges for the model selection of every model.
 
-The critical_difference_plot files have been used to produce the Critical Difference Diagrams (CD) that appear in the thesis paper.
+The critical_difference_plot files have been used to produce the Critical Difference Diagrams (CD) that appear in the thesis paper. Here they are already loaded with the results listed in the thesis paper.
